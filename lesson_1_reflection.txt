@@ -1,0 +1,31 @@
+	1) Why should I do that, Let see. One cool thing is the usage of diff in the commnad line
+2) I need be the terminal pro
+3) getting there
+
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+	very useful
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+	using dropbox (it keep only 30 days)
+	google docs 
+	Personnal one could use time machine on mac
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+	Cons is that you are dependent of humain mistake
+	pros is that you can logically manage it
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+	first git is really focus around version of programmation, in programmation it is important to understand that one change can affect many components file.
+
+How can you use the commands git log and git diff to view the history of files?
+
+	simple using git log to find your commit
+	and then using git diff that will list all the difference between the two log id
+
+How might using version control make you more confident to make changes that could break something?
+	like time capsule it take version of different file between each commit, and it is up to the programmer to make the commit.
+
+
+
